@@ -29,6 +29,8 @@
 --- 
 <img align="left" alt="mack-1999 Github Stats" src="https://github-readme-stats.vercel.app/api?username=mack-1999&show_icons=true&hide_border=true" /> 
 
+![Dino](https://raw.githubusercontent.com/mack-1999/mack-1999/master/dino.gif)
+
 [website]: https://mack-1999.github.io/Makarand-Nikam-Portfolio/
 [linkedin]: https://www.linkedin.com/in/makarand-nikam-b109991a9
 [Behance]: https://www.behance.net/makarandnikam
