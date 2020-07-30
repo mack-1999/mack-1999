@@ -4,7 +4,7 @@
 - 👨🏻‍💻 I’m currently learning everything 🤣
 - 🙋🏻‍♂️ I’m looking to collaborate with other content creators.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
-- ❤️ Fun fact: I love Photography 📷. 
+- ❤️ Fun fact: I love Photography.📷
 
 ### Connect with me: 
 [<img align="left" alt="portfolio" width="26px" src="https://image.flaticon.com/icons/svg/922/922656.svg" />][website]
