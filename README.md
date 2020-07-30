@@ -7,9 +7,9 @@
 - ❤️ Fun fact: I love Photography 📷. 
 
 ### Connect with me: 
-[<img align="left" alt="portfolio" width="22px" src="https://image.flaticon.com/icons/svg/922/922656.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/1409/1409945.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/185/185970.svg" />][Behance] 
+[<img align="left" alt="portfolio" width="26px" src="https://image.flaticon.com/icons/svg/922/922656.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="26px" src="https://image.flaticon.com/icons/svg/1409/1409945.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="26px" src="https://image.flaticon.com/icons/svg/185/185970.svg" />][Behance] 
 <br /> 
 
 ### Languages and Tools: 
