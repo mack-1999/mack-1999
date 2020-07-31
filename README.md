@@ -1,4 +1,4 @@
-### Hi there, I'm Makarand [Portfolio][website] 👋 
+### Hi there, I'm Makarand Nikam. 👋 
 
 ![Dino](https://github.com/mack-1999/mack-1999/blob/master/hero-motio.gif?raw=true)
 ## I'm a Frontend , Ui | Ux Designer & Student !
