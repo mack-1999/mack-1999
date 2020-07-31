@@ -1,6 +1,6 @@
 ### Hi there, I'm Makarand Nikam. 👋 
 
-(https://github.com/mack-1999/mack-1999/blob/master/hero-motio.gif?raw=true)
+![gif](https://github.com/mack-1999/mack-1999/blob/master/hero-motio.gif?raw=true)
 ## I'm a Frontend , Ui | Ux Designer & Student !
 - 🖥️ I’m currently working on [My Personal Portfolio][website]!
 - 👨🏻‍💻 I’m currently learning everything 🤣
@@ -32,7 +32,7 @@
 --- 
 <img align="center" alt="mack-1999 Github Stats" src="https://github-readme-stats.vercel.app/api?username=mack-1999&show_icons=true&hide_border=true" /> 
 
-(https://raw.githubusercontent.com/mack-1999/mack-1999/master/dino.gif)
+![Dino](https://raw.githubusercontent.com/mack-1999/mack-1999/master/dino.gif)
 
 [website]: https://mack-1999.github.io/Makarand-Nikam-Portfolio/
 [linkedin]: https://www.linkedin.com/in/makarand-nikam-b109991a9
