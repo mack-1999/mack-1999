@@ -32,7 +32,7 @@
 
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mack-1999&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mack-1999&hide_border=true)
 
 ![Dino](https://raw.githubusercontent.com/mack-1999/mack-1999/master/dino.gif)
 
