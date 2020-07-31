@@ -25,13 +25,15 @@
 <img align="left" alt="PS" width="26px" src="https://image.flaticon.com/icons/svg/552/552220.svg" />
 <img align="left" alt="LR" width="26px" src="https://image.flaticon.com/icons/svg/552/552221.svg" />
 
-
 <br />
 
 --- 
-<img align="center" alt="mack-1999 Github Stats" src="https://github-readme-stats.vercel.app/api?username=mack-1999&show_icons=true&hide_border=true" /> 
+<img align="left" alt="mack-1999 Github Stats" src="https://github-readme-stats.vercel.app/api?username=mack-1999&show_icons=true&hide_border=true" /> 
 
 ![Dino](https://raw.githubusercontent.com/mack-1999/mack-1999/master/dino.gif)
+
+<br />
+###Thanks For Visiting❤️ | Need Help DM.
 
 [website]: https://mack-1999.github.io/Makarand-Nikam-Portfolio/
 [linkedin]: https://www.linkedin.com/in/makarand-nikam-b109991a9
