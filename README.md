@@ -33,7 +33,7 @@
 ![Dino](https://raw.githubusercontent.com/mack-1999/mack-1999/master/dino.gif)
 
 <br />
-###Thanks For Visiting❤️ | Need Help DM.
+## Thanks For Visiting❤️ | Need Help DM.
 
 [website]: https://mack-1999.github.io/Makarand-Nikam-Portfolio/
 [linkedin]: https://www.linkedin.com/in/makarand-nikam-b109991a9
