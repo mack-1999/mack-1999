@@ -29,7 +29,7 @@
 <br />
 
 --- 
-<img align="left" alt="mack-1999 Github Stats" src="https://github-readme-stats.vercel.app/api?username=mack-1999&show_icons=true&hide_border=true" /> 
+<img align="center" alt="mack-1999 Github Stats" src="https://github-readme-stats.vercel.app/api?username=mack-1999&show_icons=true&hide_border=true" /> 
 
 ![Dino](https://raw.githubusercontent.com/mack-1999/mack-1999/master/dino.gif)
 
