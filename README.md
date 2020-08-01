@@ -12,7 +12,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="26px" src="https://image.flaticon.com/icons/svg/1409/1409945.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="26px" src="https://image.flaticon.com/icons/svg/185/185970.svg" />][Behance] 
 [<img align="left" alt="dribble" width="26px" src="https://image.flaticon.com/icons/svg/145/145801.svg" />][Dribble]
-<br /> 
+ 
 
 ### Languages and Tools: 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
