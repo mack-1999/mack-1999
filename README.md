@@ -40,7 +40,7 @@
 
 ## Thanks For Visiting❤️ | Need Help DM.
 
-[website]: https://mack-1999.github.io/Makarand-Nikam-Portfolio/
+[website]: https://mack-1999.github.io/My-Personal-Portfolio/
 [linkedin]: https://www.linkedin.com/in/makarand-nikam-b109991a9
 [Behance]: https://www.behance.net/makarandnikam
 [Dribble]: https://dribbble.com/macknikam
