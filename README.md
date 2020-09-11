@@ -1,4 +1,6 @@
-### Hi there, I'm Makarand Nikam. ![gif](https://raw.githubusercontent.com/mack-1999/mack-1999/master/Hi.gif) 
+### Hi there, I'm Makarand Nikam. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
+
 ![gif](https://github.com/mack-1999/mack-1999/blob/master/hero-motio.gif?raw=true)
 ## I'm a Frontend , Ui | Ux Designer & Student !
 
