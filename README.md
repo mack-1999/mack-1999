@@ -4,7 +4,7 @@
 ![gif](https://github.com/mack-1999/mack-1999/blob/master/hero-motio.gif?raw=true)
 ## I'm a Frontend , Ui | Ux Designer & Student !
 
-- 🖥️ I’m currently working on [My Personal Portfolio][website] <img src="https://raw.githubusercontent.com/mack-1999/mack-1999/master/fire.gif" width="29px">
+- 🖥️ I’m currently working on [My Personal Portfolio][website] <img src="https://raw.githubusercontent.com/mack-1999/mack-1999/master/fire.gif" width="50px">
 - 👨🏻‍💻 I’m currently learning everything 🤣
 - 🙋🏻‍♂️ I’m looking to collaborate with other content creators.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
