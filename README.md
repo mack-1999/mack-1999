@@ -40,7 +40,7 @@
 
 <br />
 
-## Thanks For Visiting❤️ | Need Help DM.<img src="https://raw.githubusercontent.com/mack-1999/mack-1999/master/source.gif" width="20px">
+## Thanks For Visiting❤️ | Need Help DM.<img src="https://raw.githubusercontent.com/mack-1999/mack-1999/master/source.gif" width="50px">
 
 [website]: https://makarandnikam.ml
 [linkedin]: https://www.linkedin.com/in/makarand-nikam-b109991a9
