@@ -4,10 +4,10 @@
 ![gif](https://github.com/mack-1999/mack-1999/blob/master/hero-motio.gif?raw=true)
 ## I'm a Frontend , UI Designer & Student ! <img src="https://raw.githubusercontent.com/mack-1999/mack-1999/master/rocket.gif" width="50px">
 
-- 🖥️ I’m currently working on [My Personal Portfolio][website]<img src="https://raw.githubusercontent.com/mack-1999/mack-1999/master/fire.gif" width="20px">
+- 🖥️ I’m currently working Data Science<img src="https://raw.githubusercontent.com/mack-1999/mack-1999/master/fire.gif" width="20px">
 - 👨🏻‍💻 I’m currently learning everything 🤣
 - 🙋🏻‍♂️ I’m looking to collaborate with other content creators.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 - ❤️ Fun fact: I love Photography.📷
 
 ### Languages and Tools: 
@@ -22,11 +22,6 @@
 <img align="left" alt="LR" width="26px" src="https://image.flaticon.com/icons/svg/552/552221.svg" />
 
 <br />
-
---- 
-<img align="left" alt="mack-1999 Github Stats" src="https://github-readme-stats.vercel.app/api?username=mack-1999&show_icons=true&hide_border=true" /> 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mack-1999&hide_border=true)
 
 ![Dino](https://raw.githubusercontent.com/mack-1999/mack-1999/master/dino.gif)
 
