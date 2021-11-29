@@ -2,7 +2,7 @@
 
 
 ![gif](https://github.com/mack-1999/mack-1999/blob/master/hero-motio.gif?raw=true)
-## I'm a Frontend , UI Designer & Student ! <img src="https://raw.githubusercontent.com/mack-1999/mack-1999/master/rocket.gif" width="50px">
+## I'm a Software Engineer & Student ! <img src="https://raw.githubusercontent.com/mack-1999/mack-1999/master/rocket.gif" width="50px">
 
 - 🖥️ I’m currently working Data Science<img src="https://raw.githubusercontent.com/mack-1999/mack-1999/master/fire.gif" width="20px">
 - 👨🏻‍💻 I’m currently learning everything 🤣
