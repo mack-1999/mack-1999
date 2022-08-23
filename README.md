@@ -2,9 +2,9 @@
 
 
 ![gif](https://github.com/mack-1999/mack-1999/blob/master/hero-motio.gif?raw=true)
-## I'm a Software Engineer & Student ! <img src="https://raw.githubusercontent.com/mack-1999/mack-1999/master/rocket.gif" width="10px">
+## I'm a Software Engineer & Student ! <img src="https://raw.githubusercontent.com/mack-1999/mack-1999/master/rocket.gif" width="30px">
 
-- 🖥️ I’m currently working at Infosys<img src="https://raw.githubusercontent.com/mack-1999/mack-1999/master/fire.gif" width="5px">
+- 🖥️ I’m currently working at Infosys <img src="https://raw.githubusercontent.com/mack-1999/mack-1999/master/fire.gif" width="15px">
 - 👨🏻‍💻 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Contribute more to Open Source projects.
 - ❤️ Fun fact: I love Photography.📷
