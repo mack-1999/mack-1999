@@ -1,7 +1,5 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi there, I'm Makarand Nikam.
 
-
-![gif](https://github.com/mack-1999/mack-1999/blob/master/hero-motio.gif?raw=true)
 ## I'm a Software Engineer ! <img src="https://raw.githubusercontent.com/mack-1999/mack-1999/master/rocket.gif" width="30px">
 
 - 🖥️ I’m currently working at Infosys <img src="https://raw.githubusercontent.com/mack-1999/mack-1999/master/fire.gif" width="15px">
@@ -13,11 +11,6 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-
-<br />
-
-![Dino](https://raw.githubusercontent.com/mack-1999/mack-1999/master/dino.gif)
 
 <br />
 
