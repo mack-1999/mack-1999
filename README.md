@@ -5,8 +5,6 @@
 ## I'm a Software Engineer ! <img src="https://raw.githubusercontent.com/mack-1999/mack-1999/master/rocket.gif" width="30px">
 
 - 🖥️ I’m currently working at Infosys <img src="https://raw.githubusercontent.com/mack-1999/mack-1999/master/fire.gif" width="15px">
-- 👨🏻‍💻 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects.
 - ❤️ Fun fact: I love Photography.📷
 
 ### Languages and Tools: 
@@ -25,7 +23,4 @@
 
 ## Thanks For Visiting❤️ | Need Help DM.<img src="https://raw.githubusercontent.com/mack-1999/mack-1999/master/source.gif" width="40px">
 
-[website]: https://makarandnikam.ml
 [linkedin]: https://www.linkedin.com/in/makarand-nikam-b109991a9
-[Behance]: https://www.behance.net/makarandnikam
-[Dribble]: https://dribbble.com/macknikam
