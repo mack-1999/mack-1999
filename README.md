@@ -2,8 +2,8 @@
 
 #### I'm a Software Engineer ! <img src="https://raw.githubusercontent.com/mack-1999/mack-1999/master/rocket.gif" width="30px">
 
-- 🖥️ I’m currently working at Infosys <img src="https://raw.githubusercontent.com/mack-1999/mack-1999/master/fire.gif" width="15px">
-- ❤️ Fun fact: I love Photography.📷
+- 🖥️ I’m currently working at Infosys.
+- ❤️ Fun fact: I love Photography.
 
 #### Languages and Tools: 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
